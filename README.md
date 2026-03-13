@@ -20,8 +20,6 @@ The dashboard provides insights into sales performance, customer behavior, and p
 - Payment Method Analysis
 - Customer Ratings
 
-## Dashboard
-![Dashboard](Screenshot 2026-03-13 160822)
 
 ## Business Insights
 - Apple and Samsung generated the highest revenue
